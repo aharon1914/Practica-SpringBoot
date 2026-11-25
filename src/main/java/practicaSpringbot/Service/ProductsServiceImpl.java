@@ -21,7 +21,7 @@ public class ProductsServiceImpl  implements  ProductService{
     List<Product> products = new ArrayList<>(Arrays.asList(
             new Product(1, "Laptop", 780.0, 10 ),
             new Product(2, "ThinkPad" , 1000.0, 5),
-            new Product(3, "Tablet Samsumg", 1500.0, 8),
+            new Product(3, "Tablet Samsumg/Watch", 1500.0, 8),
             new Product(4, "SmartWatch", 2500.00, 7)
 
     ));
